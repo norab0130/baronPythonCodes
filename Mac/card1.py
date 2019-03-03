@@ -19,7 +19,7 @@ if myace + uts == yourace + youruts:
 if myace + uts > yourace +youruts:
     print("i won")
 else:
-     print("you won")               
+    print("you won")               
     
     
             
